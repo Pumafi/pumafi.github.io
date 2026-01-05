@@ -1,0 +1,89 @@
+---
+permalink: /
+title: "Ferdinand BHAVSAR"
+author_profile: true
+redirect_from: 
+  - /about/
+  - /about.html
+---
+
+Machine Learning researcher focusing on both the **applications** and **theoretical foundations** of **diffusion models** and **probabilistic generative methods**.
+
+---
+
+## Professional Experience
+
+### **Postdoctoral Researcher**
+
+**INRAE, Biostatistics & Spatial Processes Unit**
+*Since Feb. 2025*
+
+* Developing **denoising diffusion models** for water quality time-series forecasting and imputation, with **uncertainty modeling**, applied to the **Cigéo nuclear waste disposal site**.
+
+---
+
+### **PhD Student**
+
+**Mines Paris - PSL, Department of Geosciences and Geoengineering**
+*2021 - 2024*
+
+* Generative models and **simulation-based inference** for inverse problems, with applications to geology (**GANs and Diffusion Models**).
+* Lectured on **generative deep learning** at ENS and Mines Paris.
+
+---
+
+### **Research Intern**
+
+**Mines Paris - PSL, Department of Geosciences and Geoengineeringt**
+*Feb - Aug 2021*
+
+* Deep learning alternatives to classical **geostatistical simulation** methods.
+
+---
+
+### **Machine Learning Intern**
+
+**Ministry of Armed Forces - Artificial Intelligence Unit**
+*Sep - Dec 2019*
+
+* ML development for an **NLP-Computer Vision pipeline** extracting structured data from unstructured military reports.
+
+---
+
+## Education
+
+### **Doctorate in Applied Mathematics**
+
+**PSL Research University**
+*2021 - 2024*
+
+* Geostatistics and Applied Probability
+* Advisors: Thomas Romary, Nicolas Dessassis
+* Dissertation: *Deep Generative Models for Conditional Spatial Simulation*
+
+---
+
+### **Computer Science Engineering Degree**
+
+**EPITA**
+*2016 - 2021*
+
+* French Engineering Degree (Master equivalent)
+* Specialization in **Cognitive Science and Artificial Intelligence (SCIA)**
+
+---
+
+## Publications
+
+* **2024** - *A stable deep adversarial learning approach for geological facies generation*.
+  **Computers & Geosciences**
+
+---
+
+## Awards & Distinctions
+
+* **2022 - Hackathon GenHack** (BNP Paribas & École Polytechnique)
+  Generative models for simulating ocean temperature evolution
+  **🥇 1st place out of 64 international teams**
+
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
