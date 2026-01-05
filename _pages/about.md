@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Machine Learning researcher focusing on both the **applications** and **theoretical foundations** of **diffusion models** and **probabilistic generative methods**.
+Machine Learning researcher focusing on both the **applications** and **theoretical foundations** of **generative methods**.
 
 ---
 
@@ -18,7 +18,7 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 **INRAE, Biostatistics & Spatial Processes Unit**
 *Since Feb. 2025*
 
-* Developing **denoising diffusion models** for water quality time-series forecasting and imputation, with **uncertainty modeling**, applied to the **Cigéo nuclear waste disposal site**.
+* Developing **denoising diffusion models** for water quality time-series forecasting and imputation.
 
 ---
 
