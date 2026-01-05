@@ -23,7 +23,7 @@ repository               : "Pumafi/pumafi.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile.jpeg"
   name             : "Ferdinand Bhavsar"
   pronouns         : # example: "she/her"  
   bio              : "Machine Learning researcher focusing on generative models."
