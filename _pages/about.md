@@ -41,12 +41,12 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 
 ---
 
-### **Machine Learning Intern**
+### **ML Software Development Intern**
 
 **Ministry of Armed Forces - Artificial Intelligence Unit**
 *Sep - Dec 2019*
 
-* ML development for an **NLP-Computer Vision pipeline** extracting structured data from unstructured military reports.
+* Software development for an **NLP and Computer Vision pipeline** extracting structured data from unstructured military reports.
 
 ---
 
@@ -85,5 +85,3 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 * **2022 - Hackathon GenHack** (BNP Paribas & École Polytechnique)
   Generative models for simulating ocean temperature evolution
   **🥇 1st place out of 64 international teams**
-
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
