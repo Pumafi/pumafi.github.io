@@ -46,8 +46,6 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 
 * Deep learning alternatives to classical **geostatistical simulation** methods.
 
----
-
 ### **ML Software Development Intern**
 
 **Ministry of Armed Forces - Artificial Intelligence Unit**
