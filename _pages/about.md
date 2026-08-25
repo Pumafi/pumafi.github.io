@@ -24,6 +24,8 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 
 * Building a strategic view of the security impacts of emerging AI uses (including automation), and scoping internal and collaborative research projects.
 
+### **Postdoctoral Researcher**
+
 **INRAE, Biostatistics & Spatial Processes Unit**
 *Feb. 2025 - Jul. 2026*
 
