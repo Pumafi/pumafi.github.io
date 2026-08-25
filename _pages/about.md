@@ -13,10 +13,19 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 
 ## Professional Experience
 
-### **Postdoctoral Researcher**
+### **AI Security Evaluation Specialist**
+
+**ANSSI, French National Cybersecurity Agency**
+*Since Feb. 2025*
+
+* Contributing to a roadmap for improving techniques to evaluate the security of AI systems, within the agency's newly formed AI unit.
+
+* Surveying, testing, and improving state-of-the-art AI security evaluation methods, in coordination with INESIA and international partners.
+
+* Building a strategic view of the security impacts of emerging AI uses (including automation), and scoping internal and collaborative research projects.
 
 **INRAE, Biostatistics & Spatial Processes Unit**
-*Since Feb. 2025*
+*Feb. 2025 - Jul. 2026*
 
 * Developing **denoising diffusion models** for water quality time-series forecasting and imputation.
 
@@ -74,6 +83,10 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 ---
 
 ## Publications
+
+
+* **2026** - *Transformer-based Diffusion models for Hydrological Time Series Probabilistic Imputation and Forecasting*.
+  **Arxiv preprint**
 
 * **2024** - *A stable deep adversarial learning approach for geological facies generation*.
   **Computers & Geosciences**
