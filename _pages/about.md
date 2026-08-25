@@ -29,8 +29,6 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 
 * Developing **denoising diffusion models** for water quality time-series forecasting and imputation.
 
----
-
 ### **PhD Student**
 
 **Mines Paris - PSL, Department of Geosciences and Geoengineering**
@@ -38,8 +36,6 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 
 * Generative models and **simulation-based inference** for inverse problems, with applications to geology (**GANs and Diffusion Models**).
 * Lectured on **generative deep learning** at ENS and Mines Paris.
-
----
 
 ### **Research Intern**
 
@@ -69,8 +65,6 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 * Geostatistics and Applied Probability
 * Advisors: Thomas Romary, Nicolas Dessassis
 * Dissertation: *Deep Generative Models for Conditional Spatial Simulation*
-
----
 
 ### **Computer Science Engineering Degree**
 
