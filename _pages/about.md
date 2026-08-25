@@ -16,7 +16,7 @@ Machine Learning researcher focusing on both the **applications** and **theoreti
 ### **AI Security Evaluation Specialist**
 
 **ANSSI, French National Cybersecurity Agency**
-*Since Feb. 2025*
+*Present*
 
 * Contributing to a roadmap for improving techniques to evaluate the security of AI systems, within the agency's newly formed AI unit.
 
